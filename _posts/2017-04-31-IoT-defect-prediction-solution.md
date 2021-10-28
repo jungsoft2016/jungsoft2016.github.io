@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 정소프트 설립
-subtitle: 정소프트 설립에 관하여...
-categories: company
-tags: [company]
+title: IoT 설비장애 예측관리 시스템
+subtitle: IoT 설비장애 예측관리 시스템 개발 이력
+categories: portfolio
+tags: [portfolio][IoT]
 ---
 
 ## 정소프트의 설립
