@@ -3,7 +3,7 @@ layout: post
 title: IoT 설비장애 예측관리 시스템
 subtitle: IoT 설비장애 예측관리 시스템 개발 이력
 categories: portfolio
-tags: [portfolio][IoT]
+tags: [portfolio]
 ---
 
 ## IoT 설비장애 예측관리 시스템(DPS)
