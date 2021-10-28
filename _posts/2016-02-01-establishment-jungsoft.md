@@ -6,11 +6,19 @@ categories: company
 tags: [company]
 ---
 
+## 정소프트 설립
+
 우리는 2016년 회사를 설립하여 웹 개발 분야에 많은 경험과  
 연구 과제를 토대로 현재의 회사로 발전할 수 있었습니다.
+    
+현재 보고 있는 웹사이트는 2021년에 제작하여,  
+2021년까지의 모든 프로젝트 경험들을 담을 예정입니다.
 
+이어 앞으로의 기업 계획이나 기업으로써의 목표,  
+추가로 진행된 프로젝트들을 포스팅 할 예정입니다.
 
-
+베이스 [웹사이트는](http://jungsoft.co.kr/)는  
+현재까지 연구/개발된 솔루션들과 기본 구성들로 제작되어 있으며
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
 **Here is some bold text**
