@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Establishment of a company.
-subtitle: Each post also has a subtitle
+title: 정소프트 설립
+subtitle: 정소프트 설립에 관하여...
 categories: company
 tags: [company]
 ---
+
+우리는 2016년 회사를 설립하여 웹 개발 분야에 많은 경험과 연구를 토대로 현재의 회사로 발전할 수 있었습니다.
+
+
 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
