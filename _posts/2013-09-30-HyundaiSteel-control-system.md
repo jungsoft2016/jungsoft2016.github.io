@@ -20,6 +20,3 @@ tags: [portfolio]
 | TOOL | Eclipse, WiseGrid, Jquery-Mobile, 다올맵, Jquery-chart, Jspeed |
 | 통 신 | AJAX, TCP-IP(위치정보) |
 | 기 타 | LBS/GPS |
-
-
-NT 2008, Android, IOS
