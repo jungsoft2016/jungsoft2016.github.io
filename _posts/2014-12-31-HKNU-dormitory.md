@@ -5,12 +5,18 @@ subtitle: 한경대학교 생활관
 categories: portfolio
 tags: [portfolio]
 ---
-참여기간 : 2013.01 ~ 2013.06  
-역 할 : PL, 설계, 개발  
-기 종 : Tomcat7.0  
-O . S : Unix  
-언 어 : JAVA,JSP  
-DBMS : ORACLE 9i  
-TOOL :Eclipse, Spring3.0, JSTL, Jquery  
-통 신 : AJAX  
-기 타 : mybatis, SCMS, Java-card  
+## 한경대학교 생활관
+![한경대학교 생활관]()  
+-
+
+## 프로젝트 개요
+
+| 참여기간 | 2014.08 ~ 2014.12 |
+| 역 할 | PM, 개발, TA, AA |
+| 기 종 | Apache |
+| O . S | Linux |
+| 언 어 | PHP |
+| DBMS | MYSQL |
+| TOOL | Edit Plus, Heidi sql, Jquery |
+| 통 신 | AJAX |
+| 기 타 | 그누보드 |
