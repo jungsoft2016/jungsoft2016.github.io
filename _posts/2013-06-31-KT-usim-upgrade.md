@@ -6,7 +6,7 @@ categories: portfolio
 tags: [portfolio, KT, USIM]
 ---
 ## KT USIM 인프라 고도화 작업
-![KT USIM 인프라 고도화 작업](https://wishket.blob.core.windows.net/portfolio/calvinkr_KT_USIM_%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B3%A0%EB%8F%84%ED%99%94_c562729086662bc2388e.jpg)  
+![KT USIM 인프라 고도화 작업](assets/images/portfolio/KT.png)  
 참여율 : 40% / 인트로, 서비스 메인페이지, 서비스(애플릿)관리 개발 참여
 
 ## 프로젝트 개요
