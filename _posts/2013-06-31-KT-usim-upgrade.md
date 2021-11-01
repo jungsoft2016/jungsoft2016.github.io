@@ -6,7 +6,7 @@ categories: portfolio
 tags: [portfolio, KT, USIM]
 ---
 ## KT USIM 인프라 고도화 작업
-![KT USIM 인프라 고도화 작업](assets/images/portfolio/KT.png)  
+![KT USIM 인프라 고도화 작업](assets/images/postimg/KT.png)  
 참여율 : 40% / 인트로, 서비스 메인페이지, 서비스(애플릿)관리 개발 참여
 
 ## 프로젝트 개요
