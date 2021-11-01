@@ -3,7 +3,7 @@ layout: post
 title: 현대제철 스크랩 운반차량 관제 시스템
 subtitle: 현대제철 스크랩 운반차량 관제 시스템
 categories: portfolio
-tags: [portfolio, hyundai-steel, hyundai-steel, IoT, 현대, 현대제철]
+tags: [portfolio, hyundai-steel, hyundai, IoT, 현대, 현대제철]
 ---
 ## 현대제철 스크랩 운반차량 관제 시스템
 ![현대제철 스크랩 운반차량 관제 시스템](https://wishket.blob.core.windows.net/portfolio/calvinkr_%EC%8A%A4%ED%81%AC%EB%9E%A9%EC%9A%B4%EB%B0%98%EC%B0%A8%EB%9F%89_%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%8B%9C%EC%8A%A4%ED%85%9C_62af39a9a5496ffd89d8.jpg)  
