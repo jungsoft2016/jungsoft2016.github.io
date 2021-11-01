@@ -3,7 +3,7 @@ layout: post
 title: 한경대학교 생활관
 subtitle: 한경대학교 생활관
 categories: portfolio
-tags: [portfolio]
+tags: [portfolio, 한경대학, HKNU]
 ---
 ## 한경대학교 생활관
 ![한경대학교 생활관]()  

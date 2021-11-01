@@ -3,14 +3,20 @@ layout: post
 title: 아이티노매즈 SKT 가상화 서버 제안
 subtitle: 아이티노매즈 SKT 가상화 서버 제안
 categories: portfolio
-tags: [portfolio]
+tags: [portfolio, SKT, server]
 ---
-참여기간 : 2013.01 ~ 2013.06  
-역 할 : PL, 설계, 개발  
-기 종 : Tomcat7.0  
-O . S : Unix  
-언 어 : JAVA,JSP  
-DBMS : ORACLE 9i  
-TOOL :Eclipse, Spring3.0, JSTL, Jquery  
-통 신 : AJAX  
-기 타 : mybatis, SCMS, Java-card  
+## 아이티노매즈 SKT 가상화 서버 제안
+![아이티노매즈 SKT 가상화 서버 제안]()  
+-
+
+## 프로젝트 개요
+
+| 참여기간 | 2014.12 ~ 2015.02 |
+| 역 할 | 프로토타입개발, 단독 |
+| 기 종 |  |
+| O . S | Windows7 |
+| 언 어 | JAVA, JSP, 단독개발 |
+| DBMS |  |
+| TOOL | VMware SDK |
+| 통 신 |  |
+| 기 타 | vSphere |

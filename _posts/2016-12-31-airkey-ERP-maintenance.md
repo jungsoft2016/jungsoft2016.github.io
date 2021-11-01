@@ -3,14 +3,20 @@ layout: post
 title: 에어키 뉴 ERP 유지보수
 subtitle: 에어키 뉴 ERP 유지보수
 categories: portfolio
-tags: [portfolio]
+tags: [portfolio, erp]
 ---
-참여기간 : 2013.01 ~ 2013.06  
-역 할 : PL, 설계, 개발  
-기 종 : Tomcat7.0  
-O . S : Unix  
-언 어 : JAVA,JSP  
-DBMS : ORACLE 9i  
-TOOL :Eclipse, Spring3.0, JSTL, Jquery  
-통 신 : AJAX  
-기 타 : mybatis, SCMS, Java-card  
+## 에어키 뉴 ERP 유지보수
+![에어키 뉴 ERP 유지보수]()  
+-
+
+## 프로젝트 개요
+
+| 참여기간 | 2015.12 ~ 2016.12 |
+| 역 할 | PM, 개발 |
+| 기 종 | Tomcat7.0 |
+| O . S | Linux |
+| 언 어 | JAVA, JSP, 공통모듈 |
+| DBMS | MYSQL |
+| TOOL | Eclipse, Spring3.4, JSTL, Jquery |
+| 통 신 | AJAX |
+| 기 타 |  |
