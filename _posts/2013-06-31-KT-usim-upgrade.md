@@ -6,7 +6,7 @@ categories: portfolio
 tags: [portfolio, KT]
 ---
 ## KT USIM 인프라 고도화 작업
-![KT USIM 인프라 고도화 작업](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)  
+![KT USIM 인프라 고도화 작업](https://wishket.blob.core.windows.net/portfolio/calvinkr_KT_USIM_%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B3%A0%EB%8F%84%ED%99%94_c562729086662bc2388e.jpg)  
 설명
 
 ## 프로젝트 개요
